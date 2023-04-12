@@ -93,7 +93,7 @@ Pull requests are welcome, please open an issue first to discuss what you would 
 ## Tests
 This Portfolio has been tested by the creator and it works fine.<br>
 this application has been uploaded to github: https://github.com/Ash0422/MyPortfolio <br>
-this application has been deployed to github: https://my-portfolio-ash.herokuapp.com/
+this application has been deployed to Heroku: https://my-portfolio-ash.herokuapp.com/
 
 ## Credits
 - https://www.w3schools.com/react/react_router.asp
