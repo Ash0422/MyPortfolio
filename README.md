@@ -42,7 +42,7 @@ A well-structured portfolio typically includes an introduction, work samples, an
 ![image of the application 3](./src/assets/screenshots/Screenshot4.png)
 
 ## The following image shows the application's been deployed:
-![image of the application 3](./assets/images/Screenshot8.png)
+![image of the application 3](./src/assets/screenshots/Screenshot9.png)
 ## Installation
 you can : 
 go to this link: https://my-portfolio-ash.herokuapp.com/Project

@@ -25,7 +25,7 @@ const Resumepage = () => {
         </div>
         <div className='card'>
             <h3>My Full Stack development</h3>
-            <span className='bar'>Front-End Proficiencies</span>
+            <span className='bar'>Back-End Proficiencies</span>
             <p>APIs</p>
             <p>Node</p>
             <p>Express</p>
