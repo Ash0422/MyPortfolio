@@ -45,7 +45,7 @@ A well-structured portfolio typically includes an introduction, work samples, an
 ![image of the application 3](./src/assets/screenshots/Screenshot9.png)
 ## Installation
 you can : 
-go to this link: https://my-portfolio-ash.herokuapp.com/Project
+go to this link: https://my-portfolio-ash.herokuapp.com/
 and check my Portfolio  
 
 ## Usage
@@ -93,7 +93,7 @@ Pull requests are welcome, please open an issue first to discuss what you would 
 ## Tests
 This Portfolio has been tested by the creator and it works fine.<br>
 this application has been uploaded to github: https://github.com/Ash0422/MyPortfolio <br>
-this application has been deployed to github: https://my-portfolio-ash.herokuapp.com/Project
+this application has been deployed to github: https://my-portfolio-ash.herokuapp.com/
 
 ## Credits
 - https://www.w3schools.com/react/react_router.asp
