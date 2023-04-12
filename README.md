@@ -44,9 +44,8 @@ A well-structured portfolio typically includes an introduction, work samples, an
 ## The following image shows the application's been deployed:
 ![image of the application 3](./assets/images/Screenshot8.png)
 ## Installation
-To install the project follow these steps:
 you can : 
-go to this link: https://text-editor-x.herokuapp.com/
+go to this link: https://my-portfolio-ash.herokuapp.com/Project
 and check my Portfolio  
 
 ## Usage
@@ -94,7 +93,7 @@ Pull requests are welcome, please open an issue first to discuss what you would 
 ## Tests
 This Portfolio has been tested by the creator and it works fine.<br>
 this application has been uploaded to github: https://github.com/Ash0422/MyPortfolio <br>
-this application has been deployed to github: https://text-editor-x.herokuapp.com/
+this application has been deployed to github: https://my-portfolio-ash.herokuapp.com/Project
 
 ## Credits
 - https://www.w3schools.com/react/react_router.asp
