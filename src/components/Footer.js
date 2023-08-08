@@ -15,7 +15,7 @@ const Footer = () => {
             </div>
             <div className="mobile">
                 <h4><FaPhone size={20} style={{ color:"#19A7CE", marginRight: "2rem"}}/>
-            602-717-3727</h4>
+            602-919-0599</h4>
             
             </div>
             <div className="email">
@@ -25,7 +25,7 @@ const Footer = () => {
             </div>
         </div>
         <div className="right-col">
-            <p>- 2023 Achraf Chibane.</p>
+            <p>ACHRAF CHIBANE</p>
             <div className="info2">
                 <a className="face" href="https://www.facebook.com/achraf.chibane.52" target="_blank" rel="noreferrer">
                     <FaFacebook size={40} style={{ color:"#146C94", marginRight: "1rem"}}/>

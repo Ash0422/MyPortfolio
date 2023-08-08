@@ -9,9 +9,8 @@ const AboutMe = () => {
     <div className="about-me">
      <div className="left-col">
         <h1> Who Am I ?</h1>
-        <p> My Name is Achraf, I enjoy meeting new people and finding ways to help them. I am always friendly and 
-courteous, Self-directed and able to work independently as well as a team player. Pay attention to detail, 
-outgoing and always eager to learn more.</p>
+        <p> My name is Achraf, and I'm a passionate web developer who recently graduated from the University of Phoenix boot camp. I thrive on meeting new people and discovering ways to assist them in their technical needs. My friendly and courteous nature makes collaboration a breeze, whether I'm working independently or as part of a team. With a keen eye for detail, an outgoing personality, and an insatiable eagerness to learn, I'm poised to tackle challenges and contribute my web development skills to innovative projects.
+</p>
         <Link to="/Contact">
         <button className="btn">CONTACT ME</button>
         </Link>
